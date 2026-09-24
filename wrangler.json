@@ -3,7 +3,6 @@
   "name": "lpi-assessment",
   "compatibility_date": "2026-09-24",
   "assets": {
-    "directory": ".",
-    "binding": "ASSETS"
+    "directory": "."
   }
 }
